@@ -1,0 +1,16 @@
+
+HTTP/1.1
+   > Some methods and response codes are added.
+   > "Keep-Alive" becomes officially supported.
+   > "Host"header becomes supported for virtual Domain.
+   > Syntox and semantics are separated.
+
+Http/
+   >Support of parallal request transmission by "stream"
+   >Addition of flow-control and prioritization function in units of "stream"
+   >Addition of server-push function
+
+
+
+Objects And Its Internal Representation In JavaScript:
+               Objects, in JavaScript, is it’s most important data-type and forms the building blocks for modern JavaScript. These objects are quite different from JavaScript’s primitive data-types(Number, String, Boolean, null, undefined and symbol) in the sense that while these primitive data-types all store a single value each 
